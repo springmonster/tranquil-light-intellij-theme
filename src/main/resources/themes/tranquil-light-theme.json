@@ -53,7 +53,7 @@
       "selectionBackground": "fadedPink"
     },
     "Borders.ContrastBorderColor": "backgroundLight",
-    "Borders.color": "backgroundLight",
+    "Borders.color": "grey",
     "Button": {
       "arc": 0,
       "background": "backgroundLight",
